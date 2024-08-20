@@ -94,7 +94,7 @@ Each method is implemented in a separate function and can be used to retrieve si
 
 ## Screenshots
 <div align="center">
-   <img src="./data/sample1.png">
-   <img src="./data/sample2.png">
-   <img src="./data/sample3.png">
+   <img src="./data/Sample1.png">
+   <img src="./data/Sample2.png">
+   <img src="./data/Sample3.png">
 </div>
